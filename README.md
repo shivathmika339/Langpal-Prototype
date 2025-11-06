@@ -52,3 +52,54 @@ Join our community of developers creating universal apps.
 =======
 # Langpal-Prototype
 
+# 🌍 LangPal — Language Partner Finder
+
+LangPal is a mobile prototype built with **Expo (React Native)** that connects people around the world to practice real language conversations.  
+The app’s design is inspired by Duolingo’s clean and friendly interface.
+
+---
+
+## 🚀 Features
+
+✅ **Home Screen** — Includes the LangPal logo, app name, and key actions like “Find a Partner” or “Start Conversation.”  
+✅ **Find a Partner Screen** — Displays a mock list of potential language partners with name, native language, and learning language.  
+✅ **Profile Screen** — Shows user info such as name, native language, and learning language.  
+✅ **Dark Mode Toggle** — Optional feature to switch between light and dark themes.  
+✅ **Simple Navigation** — Implemented using React Navigation or Expo Router.
+
+---
+
+## 🧠 Tech Stack
+
+- **React Native** (with Expo)
+- **Expo Router / React Navigation**
+- **JavaScript / TypeScript**
+- **@expo/vector-icons**
+- **React Native Safe Area Context**
+- **React Native Screens**
+
+---
+
+## 🛠️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/shivathmika339/Langpal-Prototype.git
+cd Langpal-Prototype
+
+👩‍💻 Author
+
+Shivathmika Neeradi
+Master’s in Information Systems | Cloud & Software Development
+📍 Chesterfield, Missouri
+🔗 GitHub: shivathmika339
+
+🏁 License
+
+This project is built for educational and demonstration purposes.
+All rights reserved © 2025 Shivathmika Neeradi.
+
+
+--- THE END ---
+
+
